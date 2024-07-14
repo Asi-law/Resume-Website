@@ -1,0 +1,70 @@
+body{
+    background-color: #f4ebeb;
+}
+.nav{
+    border: 2px solid black;
+    padding: 5px;
+    display: flex;
+    width: 99%;
+}
+
+.nav a{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.nav a:hover{
+    color: red;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+#head{
+    font-family:fantasy;
+    color: rgba(100, 100, 100, 1);
+    font-style:unset;
+    font-size: xxx-large;
+    margin-left: 10px;
+}
+
+.header{
+    margin-top: 10px;
+    height: 300px;
+    width: 99%;
+}
+
+#title{
+    font-size: xxx-large;
+    font-weight: bolder;
+    margin-left: 40%;
+}
+#ref{
+    text-align: center;
+    font-style: italic;
+}
+.img{
+    width: 100%;
+    border: none;
+}
+
+div{
+    border: 1px solid #333;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+h3{
+    text-decoration: underline;
+}
+hr{
+    height: 5px;
+    background-color: rgb(240, 146, 146);
+}
+div img{
+    width: 400px;
+}

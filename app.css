@@ -1,0 +1,60 @@
+body{
+    background-color: #eff780;
+}
+.nav{
+    border: 2px solid black;
+    padding: 5px;
+    display: flex;
+    width: 99%;
+}
+
+.nav a{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.nav a:hover{
+    color: red;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+#head{
+    font-family:fantasy;
+    color: rgba(100, 100, 100, 1);
+    font-style:unset;
+    font-size: xxx-large;
+    margin-left: 10px;
+}
+.img{
+    border: none;
+}
+
+.img img{
+    width: 99%;
+    height: 300px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+div{
+    border: 1px solid #333;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+div img{
+    width: 400px;
+}
+h3{
+    text-decoration: underline;
+}
+hr{
+    height:5px;
+    background-color: brown;
+}
