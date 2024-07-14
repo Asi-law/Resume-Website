@@ -1,0 +1,99 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: radial-gradient(#777);
+    
+}
+
+.clearfix{
+    clear:left;
+}
+.main{
+    height:970px;
+    width: 800px;
+    background-color:grey;
+    box-shadow: 5px 7px 15px 5px black;
+    margin: 20px auto;
+    color:black;
+    border-radius:7px;
+}
+.top-section{
+    background-color:black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 7px;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    margin:right;
+
+}
+.p1{
+    color:white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+}
+.p1 span{
+    font-weight: 100;
+    color: #c7c7c7;
+}
+.p2{
+    font-size: 20px;
+    color:white;
+    margin: 0px;
+    margin-top: 10px;
+}
+.col-div-4{
+    width: 35%;
+    float:right;
+}
+.col-div-8{
+    width: 62%;
+    float: left;
+}
+.line{
+    border-left: 1px solid black;
+    
+    width:2%;
+    margin-top:35px;
+
+    float: left;
+}
+.content-box{
+    padding: 20px;
+}
+.head{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration:underline;
+}
+.p3{
+    color:black;
+    margin-bottom: -5px;
+}
+.fa{
+    color:black;
+}
+.skills{
+    margin-left: -20px;
+    margin-bottom: 0px;
+    
+}
+.skills li{
+    padding: 5px;
+}
+.skills li span{
+    color:black;
+}
+.p-4{
+    font-size: 14px;
+    color:black;
+}
+
+hr{
+    background-color:black;
+}
